@@ -46,17 +46,6 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>aboyt</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -68,20 +57,9 @@
     
     
     <entry>
-      <title>img</title>
-      <link href="/img/index.html"/>
-      <url>/img/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -101,6 +79,28 @@
     
     
     <entry>
+      <title>picture</title>
+      <link href="/picture/index.html"/>
+      <url>/picture/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>img</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>movies</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -112,9 +112,9 @@
     
     
     <entry>
-      <title>picture</title>
-      <link href="/picture/index.html"/>
-      <url>/picture/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
