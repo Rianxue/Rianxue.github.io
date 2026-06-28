@@ -21,9 +21,23 @@
       <link href="/2026/05/15/2026-5-7-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2026/05/15/2026-5-7-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>小企鹅小企鹅</p>]]></content>
       
       
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -46,9 +60,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>全部分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -57,18 +71,7 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>aboyt</title>
+      <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
@@ -79,9 +82,9 @@
     
     
     <entry>
-      <title>picture</title>
-      <link href="/picture/index.html"/>
-      <url>/picture/index.html</url>
+      <title>全部标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -93,6 +96,28 @@
       <title>movies</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>picture</title>
+      <link href="/picture/index.html"/>
+      <url>/picture/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
